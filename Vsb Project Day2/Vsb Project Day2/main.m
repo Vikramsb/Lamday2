@@ -29,7 +29,7 @@
     NSLog(@"%i/%i",Numerator,Deominator);
     
 }
-
+// this is a comment
 -(void)setNumerator:(int)n
 {
     Numerator = n;
